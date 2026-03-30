@@ -1,0 +1,4 @@
+python version  download: https://www.python.org/ftp/python/3.13.9/python-3.13.9-amd64.exe
+
+modules need to be installed
+pip install flask scikit-learn pandas numpy
